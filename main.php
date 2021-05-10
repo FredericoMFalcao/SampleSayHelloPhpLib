@@ -1,6 +1,6 @@
 <?php
 
-class SampleSayHelloPhpLib {
+class main {
 
 	public function sayHello() { echo "Hello!\n"; }
 }
