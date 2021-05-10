@@ -5,6 +5,7 @@
   "homepage": "http://github.com/FredericoMFalcao/SampleSayHelloPhpLib",
   "type": "library",
   "license": "MIT",
+  "version" : "1.0.0",
   "authors": [
     {   
       "name": "Frederico Falcao",
