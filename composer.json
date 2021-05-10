@@ -1,0 +1,20 @@
+{
+  "name": "fredericomfalcao/samplesayhellophplib",
+  "description": "Sample module that says hello",
+  "keywords": ["sample","hello"],
+  "homepage": "http://github.com/FredericoMFalcao/SampleSayHelloPhpLib",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {   
+      "name": "Frederico Falcao",
+      "email": "fredericomfalcao@hotmail.com"
+    }   
+  ],  
+  "require": {
+    "php": ">=5.3.0"
+  },  
+  "autoload": {
+  }
+}
+~                     
